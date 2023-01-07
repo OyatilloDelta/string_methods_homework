@@ -6,5 +6,7 @@ def main(s):
     Returns:
         bool: answer
     """
+    x=s.isupper()
     
-    return
+    return x
+print(main('GHJGKFD'))
