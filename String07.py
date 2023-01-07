@@ -6,7 +6,7 @@ def main(s):
     Returns:
         bool: answer
     """
-    x=s.isupper()
+    x=s.isdigit()
     
     return x
 print(main('GHJGKFD'))
