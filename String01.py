@@ -6,5 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
+    x=s.title()
     
-    return
+    return x
+print(main('fs gfdd hed'))
