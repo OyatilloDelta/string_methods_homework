@@ -6,5 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
+    x=s.capitalize()
     
-    return
+    return x
+print(main('guerg uhg'))
