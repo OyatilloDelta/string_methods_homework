@@ -6,5 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
+    x=s.find('X')
     
-    return
+    return x
+print(main('alphX'))
